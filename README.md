@@ -1,10 +1,13 @@
-### Hi there 👋
+Hi there 👋 ,I am tyIUC
+- 🔭 I'm learning C# and learning to write plugins
+- 💬 Welcome to communicate with me
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyIUc&show_icons=true&theme=tokyonight)
 
 <!--
 **tyIUc/tyIUc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
- ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true&theme=tokyonight)
+### ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true&theme=tokyonight)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
